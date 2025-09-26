@@ -8,5 +8,3 @@ The following diagram illustrates the tables and their relationships:
 
 Access the full SQL analysis of the Chinook database in this Google Colab notebook [![Open In Colab](https://colab.research.google.com/drive/1YjLrpvX2SejdrbU-O2FvSPjgEcUQ5dC0#scrollTo=w3k-_vmk3Gfz)
 
-Access the full SQL analysis of the Chinook database in this Google Colab notebook [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1FQlU5tulnHxSIjsXTQ0pQ79pcmhVPV0-#scrollTo=AzMrbH8U4Vuj)
-
